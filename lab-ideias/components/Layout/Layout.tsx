@@ -1,0 +1,1 @@
+const name = 'Laboratório de Ideias'
